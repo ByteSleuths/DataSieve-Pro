@@ -236,8 +236,7 @@ Contributions are welcome! If you'd like to submit a pull request, improve perfo
 For inquiries, issues, or collaborations:
 
 **ByteSleuths**  
-[louisduflosdu62@gmail.com]  
-[https://github.com/ByteSleuths]
+(email)[louisduflosdu62@gmail.com]  
 
 ---
 
