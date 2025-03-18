@@ -96,7 +96,7 @@ python setup.py build_ext --inplace
 Run the script:
 
 ```bash
-python triAI3.py
+python datasieve.py
 ```
 
 The tool will:
