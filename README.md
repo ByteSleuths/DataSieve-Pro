@@ -231,14 +231,5 @@ Contributions are welcome! If you'd like to submit a pull request, improve perfo
 
 ---
 
-## 📬 Contact
-
-For inquiries, issues, or collaborations:
-
-**ByteSleuths**  
-[Email](louisduflosdu62@gmail.com)
-
----
-
 **DataSieve Pro — Clean Data, Fast Results.**
 
